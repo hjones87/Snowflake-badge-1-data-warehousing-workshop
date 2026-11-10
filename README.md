@@ -9,6 +9,11 @@
   🏅 <strong>Completed 10 November 2026</strong>
 </p>
 
+<p align="center">
+  <a href="https://achieve.snowflake.com/84374c83-9c9d-413b-974f-e3bd62b7f6ed#acc.cInSe31k">View Credential</a>
+</p>
+
+
 ## Repository Contents
 
 This repository contains my SQL scripts and notebooks which I completed as part of a Data Warehousing Workshop.
